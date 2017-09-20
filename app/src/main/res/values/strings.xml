@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Bookkeeping</string>
+
+    <string name="month_total_amount">本月总额</string>
+    <string name="month_used_amount">本月已用</string>
+    <string name="month_rest_amount">本月剩余</string>
+    <string name="add_entry">记一笔</string>
 </resources>
